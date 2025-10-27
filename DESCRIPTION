@@ -1,0 +1,15 @@
+Package: r4bdsCentralDogmaLab8
+Type: r4bdsCentralDogmaLab8
+Title: Central Dogma package for r4bds lab8 exercise
+Version: 0.1.0
+Authors@R:
+  c(person(given = "Zitian",
+           family = "Zhen",
+           role = c("aut", "cre"), # There must be a "cre", but there can only be one
+           email = "ztizh@dtu.dk") 
+ )
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
